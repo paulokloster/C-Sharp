@@ -1,2 +1,2 @@
-# c#
-Data Structure Algorithms
+# C# Codes for studing purpose...
+All codes on this repository are related to Data Structure Algorithms.
